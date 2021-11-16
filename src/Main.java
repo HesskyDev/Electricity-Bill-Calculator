@@ -116,14 +116,7 @@ public class Main{
 		            			units.setText("NOT A NUMBER!");
 		            			
 		            		};
-		            		
-		            	// There's nothing entered
-		            		
-		            	} else {
-		            		
 		            	}
-		            	
-		            	
 		            }
 		     }
 		};
